@@ -2,6 +2,7 @@
 
 Copy and Paste this line in your server.
 
+cd /usr/local/CyberCP/loginSystem/templates/loginSystem/
 
-bash <( curl -k https://raw.githubusercontent.com/w3servicesdotnet/cploginpage/master/home.sh )
+wget -O ./login.html https://raw.githubusercontent.com/w3servicesdotnet/cploginpage/master/login.html
  
